@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "--- Ukuran Dari Project Ini Dalam Format Yang Mudah Dibaca ---"
+du -h
+echo "--- SELESAI ---"
